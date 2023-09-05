@@ -1,6 +1,6 @@
 from pdf2docx import parse
 
-parse(pdf_file="MüzikEtkinlikleri.pdf", docx_file="Muzik.docx", start=0, end=None)
+parse(pdf_file="../MüzikEtkinlikleri.pdf", docx_file="../Muzik.docx", start=0, end=None)
 
 #Bir diğer yöntem:
 
